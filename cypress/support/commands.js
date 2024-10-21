@@ -1,12 +1,3 @@
-// Кастомные команды, которых нет в cypress
-
-Cypress.Commands.add('logout', () => {
-    cy.request('GET', 'https://api.pokemonbattle.me/v2/pokemons?page=1').then((response) => {
-        expect(response.status).to.eq(200);
-    });
-});
-
-
 // ***********************************************
 // This example commands.js shows you how to
 // create various custom commands and overwrite
