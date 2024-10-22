@@ -1,5 +1,6 @@
 {
     "header":"#forgotForm > .header",
     "mail_forgot":"#mailForgot",
-    "button":"#restoreEmailButton"
+    "button":"#restoreEmailButton",
+    "footer":".link"
 }
