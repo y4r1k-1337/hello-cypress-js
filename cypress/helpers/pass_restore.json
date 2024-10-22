@@ -1,0 +1,5 @@
+{
+    "header":"#forgotForm > .header",
+    "mail_forgot":"#mailForgot",
+    "button":"#restoreEmailButton"
+}
